@@ -43,3 +43,5 @@ plot_gam <- create_plot(cars93, "gam", "#7c6bea", "GAM: Fuel Tank Capacity vs. C
 print(plot_lm)
 print(plot_glm)
 print(plot_gam)
+
+#https://chatgpt.com/share/d13907ee-d232-411b-a533-a2a8c6051de1
